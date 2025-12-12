@@ -1,0 +1,61 @@
+.main{
+
+width: 1400px;
+background-color: rgb(154, 148, 138);
+margin: auto;
+
+}
+
+
+.head{
+
+
+    /* image 1 */
+
+
+
+height: 700px;
+
+
+background: url(image.png)  40% / cover lightblue round border-box;
+/*mix-blend-mode: darken;*/
+padding: 150px;
+}
+
+h1{
+
+
+color: rgb(255, 255, 255);
+font-size: 100pt;
+
+
+
+}
+
+.text1{
+
+    margin: 80px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+
+p{
+padding-left: 20px;
+padding-right: 20PX;
+    font-size: 50pt;
+    font-style: italic;
+}
+.image{
+
+
+ margin: 80px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 50px
+}
+
+.image img {
+    margin: 20px;
+    width:95%;}
